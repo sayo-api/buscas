@@ -1,0 +1,32 @@
+{
+  "name": "darkapiconsultas-main",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.26.1",
+    "bing-translate-api": "^2.5.0",
+    "cheerio": "^1.0.0-rc.10",
+    "cors": "^2.8.5",
+    "express": "^4.17.3",
+    "fetch": "^1.1.0",
+    "generate-quote": "^1.0.6",
+    "google-translate-api": "^2.3.0",
+    "input": "^1.0.1",
+    "inspirational-quotes": "^2.0.1",
+    "mongoose": "^6.2.8",
+    "nodemon": "^2.0.15",
+    "telegram": "^2.5.22"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://git.heroku.com/iobuscas.git"
+  }
+}
