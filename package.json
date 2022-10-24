@@ -12,7 +12,8 @@
   "license": "ISC",
   "dependencies": {
     "express": "^4.17.3",
-    "telegram": "^2.5.22"
+    "telegram": "^2.5.22",
+    "input": "^1.0.1"
   },
   "repository": {
     "type": "git",
