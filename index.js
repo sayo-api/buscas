@@ -21,7 +21,7 @@ const apiId = "14722796";
 const apiHash = "d9dfe5db3a435335e3d3a1aa920af5a5";
 
 const stringSession = new StringSession(
- //"1AQAOMTQ5LjE1NC4xNzUuNTYBu60FbeuLBOo+Ltnifr/c7vrjHtV4e6rLyEAv3zhaKJuxn7R84IybgxlxCJFaXOKFxRztg+FnidN9hLOOHmEzBy4KN9mZesDRAdI/obukytEPq2boPYDipQYdgAwbpXtpunHFr3QkyTYtwYm716sB09Zfk2V4kbieE2J5qhGQSZ1yQKJb07fYUi1lw+8/5QLzuhb35xkYJsUMph/MNQW/ZM5+tKExODfTNxLNldmg5LQkH5bDGd3vftRonseXx/qXaXBqM08t/wLPqVk0HWmNEQ4orP31MGhfZtHwXGj5E4teYn/2JpdkO3YvUxqVPIMylpepWh1rdawieOSusO7Tbfo="
+ "1AQAOMTQ5LjE1NC4xNzUuNTYBu60FbeuLBOo+Ltnifr/c7vrjHtV4e6rLyEAv3zhaKJuxn7R84IybgxlxCJFaXOKFxRztg+FnidN9hLOOHmEzBy4KN9mZesDRAdI/obukytEPq2boPYDipQYdgAwbpXtpunHFr3QkyTYtwYm716sB09Zfk2V4kbieE2J5qhGQSZ1yQKJb07fYUi1lw+8/5QLzuhb35xkYJsUMph/MNQW/ZM5+tKExODfTNxLNldmg5LQkH5bDGd3vftRonseXx/qXaXBqM08t/wLPqVk0HWmNEQ4orP31MGhfZtHwXGj5E4teYn/2JpdkO3YvUxqVPIMylpepWh1rdawieOSusO7Tbfo="
 );
 
 /*const apiId = "13491147";
