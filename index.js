@@ -21,14 +21,10 @@ const apiId = "14722796";
 const apiHash = "d9dfe5db3a435335e3d3a1aa920af5a5";
 
 const stringSession = new StringSession(
- "1AQAOMTQ5LjE1NC4xNzUuNTEBuzqhwY/iFaoM5OCjd7bDQ7TkVVil71Ol/HvMaWvmVTWpwz4AB9wTFrhw6V0fdxf/tkn+A4T4guUPrRadwov9NaSvM0M7J1SZVaWPB3gXTN5w7seIlbchHQhJON+ouLHkgxXZmZvEQWjsHYVsLZkvvQlPGMKZv4W2MuXoK+WhkbmheeNb0zjY6NqrMCzNtHQIfTmVLQ2CUrT0VWuBJ5BeBSMg9w+wlTe1bMJspMDfcqCMi9aZ2kL1VuA1QPsvTamx8ywBpaSxp0nHOsiRo2NaDIkz6DKkUZyKmR7bdOCeNR16Nj17B/a6/cuYgqTnJwCgTXq/r9vvy0G61nm0cb4Hhk4="
+ "1AQAOMTQ5LjE1NC4xNzUuNTEBu7eJfFXqO+Yg0wjBuBbaHbJ/aulBp6ch0u66xCbtRwL3EjEZTToFiqgxBuTIXdA9q700VlqgD9+xAM847aKCgz/jKuW6OObg9539SnYDVvKsSc70Mmre6swvsX6A/+OYo7DuccTB+uER5A11Anyx9hod5YVoF24KtzIu5dwE6omdGZGNKzUl9Io/SmEQwHHw6B+1CbTUtI4+Y8QFg1d0h1B2RcZcRnVj+aP7ZAc/EG10WGAxoJ36PTWK2jQqCxY7AOvmB3ksKJyd8VAq1WjtAjdL7ENxUISbh+mN7hBn6tvQHO1Qw3jG4PIk158+d7TQ1iIgMVEEagzCYKGfQc+9Zpo="
 );
 
-/*const apiId = "13491147";
-const apiHash = "85950b18c890967ffc8864c0bfbbcd85";
-const stringSession = new StringSession(
- "1AQAOMTQ5LjE1NC4xNzUuNTgBuy8dVfqMjpOGaZVezrB2n0ESvIET+A+f5iRKO7K5dEaSs6nI95FNi6WzvWgmaYLviHCgRpvIUrmrtPKk97CZHJYW3i/2XC00g4RRWKbx+seUC/9EHtDJ2dCZj9vt8muaOas89KXmGT4+UHlKcY+oRSBgtrgpOMzleqKVEPyOrFszqPWc7iFFSyBgzdd+DlQj8jJdHZ7wZDyptjN3HSrrwxQXnwLsmDRCPmE/x48NJuvfZmGcyCoG47YrRZ0iWOAFhcEeov6UrQjLZkRyHIYyUDJx7DcVzYT58gKTePVpGwa0IVlJUJHDsA3QrizOOHUJ+4Fk3ImDXtwOrgJzUckjNb8="
-);*/
+
 
 const port = process.env.PORT || 3000;
 app.listen(port, () => console.log("WebSite Online na porta:", port));
